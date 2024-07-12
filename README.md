@@ -16,24 +16,24 @@ o Vite: Bundler for optimized development and build process
 o CSS Modules: For modular and maintainable styling
 
 ## Project Structure
-project-root/
-│
-├── public/
-│   ├── index.html
-│   └── ...
-│
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── styles/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+project-root/</br>
+│</br>
+├── public/</br>
+│   ├── index.html</br>
+│   └── ...</br>
+│</br>
+├── src/</br>
+│   ├── assets/</br>
+│   ├── components/</br>
+│   ├── styles/</br>
+│   ├── App.js</br>
+│   ├── index.js</br>
+│   └── ...</br>
+│</br>
+├── .gitignore</br>
+├── package.json</br>
+├── README.md</br>
+└── ...</br>
 
 ## Getting Started
 
@@ -43,17 +43,17 @@ o Node.js
 o npm (Node Package Manager) or Yarn
 
 ### Setup Instructions
-1. Clone the repository:-
-   git clone https://github.com/Hemlata3010/Dylan-Estate-Website.git
+1. Clone the repository:- </br>
+   git clone https://github.com/Hemlata3010/Dylan-Estate-Website.git </br>
    cd Dylan-Estate-Website
 
-2. Install dependencies:-__
+2. Install dependencies:- </br>
    npm install
 
-3. Run the development server:-_ _
+3. Run the development server:- </br>
    npm run dev
 
-4. Open your browser and navigate to:-</br>
+4. Open your browser and navigate to:- </br>
    http://localhost:5173/
 
 ## Project Details
