@@ -47,13 +47,13 @@ o npm (Node Package Manager) or Yarn
    git clone https://github.com/Hemlata3010/Dylan-Estate-Website.git
    cd Dylan-Estate-Website
 
-2. Install dependencies:-
+2. Install dependencies:-__
    npm install
 
-3. Run the development server:-
+3. Run the development server:-_ _
    npm run dev
 
-4. Open your browser and navigate to:-
+4. Open your browser and navigate to:-</br>
    http://localhost:5173/
 
 ## Project Details
