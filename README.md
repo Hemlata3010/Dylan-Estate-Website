@@ -8,12 +8,12 @@ This project is part of an assessment for the position of UX Developer at Dylan 
 The project involves developing a section of the Dylan Estate website based on provided UX designs. The goal is to create a seamless user experience that accurately reflects the designs.
 
 ## Technologies Used
-o React: JavaScript library for building user interfaces
-o JavaScript: Programming language for functionality
-o HTML: Markup language for structure
-o CSS: Styling language for presentation
-o Vite: Bundler for optimized development and build process
-o CSS Modules: For modular and maintainable styling
+o React: JavaScript library for building user interfaces</br>
+o JavaScript: Programming language for functionality</br>
+o HTML: Markup language for structure</br>
+o CSS: Styling language for presentation</br>
+o Vite: Bundler for optimized development and build process</br>
+o CSS Modules: For modular and maintainable styling</br>
 
 ## Project Structure
 project-root/</br>
@@ -39,8 +39,8 @@ project-root/</br>
 
 ### Prerequisites
 Ensure you have the following installed on your local development environment:
-o Node.js
-o npm (Node Package Manager) or Yarn
+o Node.js</br>
+o npm (Node Package Manager)
 
 ### Setup Instructions
 1. Clone the repository:- </br>
@@ -59,27 +59,18 @@ o npm (Node Package Manager) or Yarn
 ## Project Details
 
 ### Key Features
-o Responsive design ensuring usability across various devices.
-o Interactive elements for improved user engagement.
+o Responsive design ensuring usability across various devices.</br>
+o Interactive elements for improved user engagement.</br>
 o Accurate representation of the provided UX designs.
 
 ### Folder Structure
-src/assets: Contains images and other static assets.
-src/components: Contains React components used throughout the project.
-src/styles: Contains CSS modules for component-specific styling.
-src/App.js: Main application component.
+src/assets: Contains images and other static assets.</br>
+src/components: Contains React components used throughout the project.</br>
+src/styles: Contains CSS modules for component-specific styling.</br>
+src/App.js: Main application component.</br>
 src/index.js: Entry point of the React application
 
 
 
-  # Dylan Estate Website
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
-
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-
-  The website link : http://localhost:5173/
   
